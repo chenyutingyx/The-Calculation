@@ -1,0 +1,24 @@
+﻿生成启动时间为 2016/3/10 21:27:17。
+     1>项目“F:\程序编写\构建之法小学生四则运算\构建之法小学生四则运算\构建之法小学生四则运算.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“F:\程序编写\构建之法小学生四则运算\Release\”。
+       InitializeBuildStatus:
+         正在创建“Release\构建之法小学生四则运算.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\vs\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "构建之法小学生四则运算.cpp"
+         构建之法小学生四则运算.cpp
+       Link:
+         D:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\程序编写\构建之法小学生四则运算\Release\构建之法小学生四则运算.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\构建之法小学生四则运算.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\程序编写\构建之法小学生四则运算\Release\构建之法小学生四则运算.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\程序编写\构建之法小学生四则运算\Release\构建之法小学生四则运算.lib" /MACHINE:X86 "Release\构建之法小学生四则运算.obj"
+         正在生成代码
+         已完成代码的生成
+         构建之法小学生四则运算.vcxproj -> F:\程序编写\构建之法小学生四则运算\Release\构建之法小学生四则运算.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\程序编写\构建之法小学生四则运算\Release\构建之法小学生四则运算.exe;#1" /manifest "Release\构建之法小学生四则运算.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\构建之法小学生四则运算.unsuccessfulbuild”。
+         正在对“Release\构建之法小学生四则运算.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\程序编写\构建之法小学生四则运算\构建之法小学生四则运算\构建之法小学生四则运算.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.27
